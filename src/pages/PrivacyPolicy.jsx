@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 export default function PrivacyPolicy() {
   const appName = "Text Behind Image";
-  const contactEmail = "your-email@example.com"; // ← REPLACE
+  const contactEmail = "mohsin.alaum10@gmail.com"; // ← REPLACE
   const lastUpdated = "January 2025";
 
   return (
