@@ -281,7 +281,7 @@ export default function AboutUs() {
           </p>
           <p>
             Email us at:{" "}
-            <a href="mailto:your-email@example.com">your-email@example.com</a>
+            <a href="mailto:your-email@example.com">mohsin.alaum10@gmail.com</a>
           </p>
         </section>
 
